@@ -19,9 +19,14 @@ L’applicazione possiede un’UI facile ed intuitiva, ovvero una TabView suddiv
 singole criptovalute
 
 
+<img src = "./Assets.xcassets/coins.jpeg" style="width: 30%; margin-top: 10px;"></img>
+<img src = "./Assets.xcassets/crypto-desc.jpeg" style="width: 30%; margin-top: 10px;"></img>
+
 
 - **Exchanges**: Una ScrollView in cui sono presenti gli indici di mercato
 per l’exchange di criptovalute
+
+
 - **AR**: Una UI in Agumented Reality in cui, utilizzando la fotocamera,
 possiamo interagire con una criptovaluta in realtà virtuale sviluppata
 con Reality Composer, implementata grazie a RealityKit e UIKit.
