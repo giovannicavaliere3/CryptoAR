@@ -1,0 +1,42 @@
+[
+  {
+    "libraryIdentifier" : "26301ad1f9207ef3e5cb113071abeb45",
+    "format" : "model",
+    "displayName" : "Bitcoin.usdz"
+  },
+  {
+    "libraryIdentifier" : "acd250b8c6de01a5ce93d309dc83c320",
+    "format" : "image",
+    "displayName" : "bitcoin-btc-logo.png"
+  },
+  {
+    "libraryIdentifier" : "2cf2241273c6f89ea385ddc638908216",
+    "format" : "audio",
+    "displayName" : "rec.wav"
+  },
+  {
+    "libraryIdentifier" : "c9dbb0a4f21602d9bf6b89c4e2c44e6b",
+    "format" : "image",
+    "displayName" : "ethereum-eth-logo.png"
+  },
+  {
+    "libraryIdentifier" : "e6bfba0569fc310172e7cf6558fe3892",
+    "format" : "image",
+    "displayName" : "kisspng-ethereum-portable-network-graphics-computer-icons-developers-icon-request-icon-ethereum-5cb941c1cb12b1.1213852915556448658318.jpeg"
+  },
+  {
+    "libraryIdentifier" : "7fde9cd8a8ebf45c378b84070fa6515b",
+    "format" : "image",
+    "displayName" : "images.png"
+  },
+  {
+    "libraryIdentifier" : "8686899c2a79dd35a16b5ce0f0ecc92f",
+    "format" : "model",
+    "displayName" : "ETH_Coin.usdz"
+  },
+  {
+    "libraryIdentifier" : "60a4a15002cca7bec34a69c1b48318f2",
+    "format" : "audio",
+    "displayName" : "rec.wav"
+  }
+]
