@@ -21,13 +21,23 @@ singole criptovalute
 
 <img src = "./Assets.xcassets/coins.jpeg" style="width: 30%; margin-top: 10px;"></img>
 <img src = "./Assets.xcassets/crypto-desc.jpeg" style="width: 30%; margin-top: 10px;"></img>
-
+<br></br>
+<br></br>
 
 - **Exchanges**: Una ScrollView in cui sono presenti gli indici di mercato
 per l’exchange di criptovalute
 
 
+<img src = "./Assets.xcassets/exchange.jpeg" style="width: 30%; margin-top: 10px;"></img>
+<img src = "./Assets.xcassets/ex-desc.jpg" style="width: 30%; margin-top: 10px;"></img>
+<br></br>
+<br></br>
+
+
 - **AR**: Una UI in Agumented Reality in cui, utilizzando la fotocamera,
 possiamo interagire con una criptovaluta in realtà virtuale sviluppata
 con Reality Composer, implementata grazie a RealityKit e UIKit.
+
+
+
 - **Models**: Una UI che sfrutta RealityKit, SceneKit e UIKit per rappresentare diversi modelli 3D di criptovalute con i quali è possibile interagire tramite touchscreen.
