@@ -1,5 +1,5 @@
 # CryptoAR
-CryptoAR è un'app iOS che consente di tenere traccia delle criptovalute e visualizzare un modello 3D di Bitcoin in realtà aumentata. Il modello di Bitcoin e le altre componenti 3D in AR a lui collegate sono stati realizzati utilizzando Reality Composer. L'applicazione è collegata a due diversi API per accedere alle informazioni sulle criptovalute, una per le crypto e dun'altra per le exchanges.
+CryptoAR è un'app iOS sviluppata durante il tirocinio con l'Apple Foundation Program. Consente di tenere traccia delle criptovalute e visualizzare un modello 3D di Bitcoin in Agumented Reality. Il modello di Bitcoin e le altre componenti 3D in AR a lui collegate sono stati realizzati utilizzando Reality Composer. L'applicazione è collegata a due diversi API per accedere alle informazioni sulle criptovalute, una per le crypto e dun'altra per le exchanges.
 
 # Funzionalità
 Visualizza le informazioni attuali sulle criptovalute, come il prezzo e la capitalizzazione di mercato.
@@ -16,7 +16,7 @@ Utilizza Reality Composer per creare un modello di Bitcoin dettagliato e realist
 --------------
 L’applicazione possiede un’UI facile ed intuitiva, ovvero una TabView suddivisa in diverse sezioni:
 - **Coins**: Una ScrollView in cui sono presenti gli indici di mercato delle
-singole criptovalute
+singole criptovalute. Al click di ogni singola moneta, si accede ad una View con delle informazioni aggiuntive sugli indici di mercato delle criptovalute.
 
 
 <img src = "./Assets.xcassets/coins.jpeg" style="width: 30%; margin-top: 10px;"></img>
@@ -25,7 +25,7 @@ singole criptovalute
 <br></br>
 
 - **Exchanges**: Una ScrollView in cui sono presenti gli indici di mercato
-per l’exchange di criptovalute
+per l’exchange di criptovalute. Lo scheletro di questa vista è basato sullo stesso della sezione Coins
 
 
 <img src = "./Assets.xcassets/exchange.jpeg" style="width: 30%; margin-top: 10px;"></img>
@@ -38,6 +38,13 @@ per l’exchange di criptovalute
 possiamo interagire con una criptovaluta in realtà virtuale sviluppata
 con Reality Composer, implementata grazie a RealityKit e UIKit.
 
-
+<img src = "./Assets.xcassets/AR.png" style="width: 30%; margin-top: 10px;"></img>
+<br></br>
+<br></br>
 
 - **Models**: Una UI che sfrutta RealityKit, SceneKit e UIKit per rappresentare diversi modelli 3D di criptovalute con i quali è possibile interagire tramite touchscreen.
+
+
+<img src = "./Assets.xcassets/models.jpg" style="width: 30%; margin-top: 10px;"></img>
+<br></br>
+<br></br>
